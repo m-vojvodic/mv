@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    font-family: "Lato", sans-serif; /* TODO: pick a font */
+    margin: 0;
+    padding: 0;
+}
+
+a                       { color: #556b2f; text-decoration: none; }
+a:hover                 { color: #88976d; }
+a:visited               { color: #556b2f; }
+a:visited:hover         { color: #88976d; }
+
+#email                  { color: #ffffff; text-decoration: none; }
+#email:hover            { color: #88976d; }
+#email:visited          { color: #ffffff; }
+#email:visited:hover    { color: #88976d; }
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    text-transform: uppercase;
+}
+
+h1, h3, h4 {
+    font-weight: 300;
+    margin: 0;
+}
+
+#info {
+    color: #ffffff;
+    margin-left: 3em;
+    margin-top: 5em;
+    margin-bottom: 6em;
+}
+
+#recent {
+    color: #556b2f;
+    margin-left: 3em;
+    margin-top: 2em;
+}
+
+#links {
+    color: #556b2f;
+    margin-left: 3em;
+    margin-top: 2em;
+}
+
+.link {
+    font-size: 12px;
+    letter-spacing: 1px;
+    margin: 0.5em 0;
+}
