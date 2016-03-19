@@ -1,6 +1,7 @@
 body {
     background-color: black;
-    font-family: "Lato", sans-serif; /* TODO: pick a font */
+    font-family: sans-serif;
+    font-weight: 100;
     margin: 0;
     padding: 0;
 }
